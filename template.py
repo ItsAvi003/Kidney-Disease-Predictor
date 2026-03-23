@@ -25,9 +25,6 @@ list_of_files = [
     "setup.py",
     "research/trials.ipynb",
     "templates/index.html",
-    "test.py"
-
-
 ]
 
 
